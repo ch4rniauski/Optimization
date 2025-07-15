@@ -1,0 +1,36 @@
+17:12:05 - System.ArgumentException: Could not find Steam App with the ID 1966720
+   at SteamHelper.SteamApplicationInfo.FromAppId(Int32 appId)
+   at SteamHelper.Program.Main(String[] args)
+17:12:07 - System.ArgumentException: Could not find Steam App with the ID 1966720
+   at SteamHelper.SteamApplicationInfo.FromAppId(Int32 appId)
+   at SteamHelper.Program.Main(String[] args)
+17:13:35 - System.ArgumentException: Could not find Steam App with the ID 730
+   at SteamHelper.SteamApplicationInfo.FromAppId(Int32 appId)
+   at SteamHelper.Program.Main(String[] args)
+17:13:36 - System.ArgumentException: Could not find Steam App with the ID 730
+   at SteamHelper.SteamApplicationInfo.FromAppId(Int32 appId)
+   at SteamHelper.Program.Main(String[] args)
+17:14:27 - System.ArgumentException: Could not find Steam App with the ID 322330
+   at SteamHelper.SteamApplicationInfo.FromAppId(Int32 appId)
+   at SteamHelper.Program.Main(String[] args)
+17:14:29 - System.ArgumentException: Could not find Steam App with the ID 322330
+   at SteamHelper.SteamApplicationInfo.FromAppId(Int32 appId)
+   at SteamHelper.Program.Main(String[] args)
+17:15:23 - System.ArgumentException: Could not find Steam App with the ID 43160
+   at SteamHelper.SteamApplicationInfo.FromAppId(Int32 appId)
+   at SteamHelper.Program.Main(String[] args)
+17:15:24 - System.ArgumentException: Could not find Steam App with the ID 43160
+   at SteamHelper.SteamApplicationInfo.FromAppId(Int32 appId)
+   at SteamHelper.Program.Main(String[] args)
+17:15:53 - System.ArgumentException: Could not find Steam App with the ID 381210
+   at SteamHelper.SteamApplicationInfo.FromAppId(Int32 appId)
+   at SteamHelper.Program.Main(String[] args)
+17:15:54 - System.ArgumentException: Could not find Steam App with the ID 381210
+   at SteamHelper.SteamApplicationInfo.FromAppId(Int32 appId)
+   at SteamHelper.Program.Main(String[] args)
+17:16:49 - System.ArgumentException: Could not find Steam App with the ID 271590
+   at SteamHelper.SteamApplicationInfo.FromAppId(Int32 appId)
+   at SteamHelper.Program.Main(String[] args)
+17:16:50 - System.ArgumentException: Could not find Steam App with the ID 271590
+   at SteamHelper.SteamApplicationInfo.FromAppId(Int32 appId)
+   at SteamHelper.Program.Main(String[] args)

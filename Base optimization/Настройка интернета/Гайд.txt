@@ -1,0 +1,80 @@
+1) Панель управления -> Центр управления сетями и общим доступом -> Ethernet -> св-ва -> оставляем только IPv4 - св-ва IPv4 -> ОТКЛ NetBIOS TCP/IP
+2) Диспетчер устройств:
+
+Advanced EEE = Disable
+ARP Offload = Enable
+Auto Disable Gigabit = Disable
+Energy-Efficient Ethernet = Disable
+Flow Control = Disable
+Gigabit Lite = Disable
+Green Ethernet = Disable
+Interrupt Moderation = Disable
+IPv4 Checksum Offload = Disable
+Jumbo Frame = Disable
+Large Send Offload v2 (IPv4) = Enable
+Large Send Offload v2 (IPv6) = Enable
+Maximum Number of RSS Queues = Максимальное значение
+Network Address = Отсутствует
+NF Offload = Enable
+Power Saving Mode = Disable
+Priority & VLAN = Priority & VLAN Enable
+Receive Buffers = Максимальное значение
+Receive Side Scaling = Enable
+Shutdown Wake-On-Lan = Enable
+Speed & Duplex = 1.0 Gbps Full Duplex
+TCP Checksum Offload (IPv4) = Rx & Tx Enable
+TCP Checksum Offload (IPv4) = Rx & Tx Enable
+Transmit Buffers = Максимальное значение
+UPD Checksum Offload (IPv4)= Rx & Tx Enable
+UPD Checksum Offload (IPv6)= Rx & Tx Enable
+VLAN ID = 0
+Wake on Magic Packet = Disable
+Wake on Magic packet when system is... = Disable
+Wake on pattern match = Disable
+WOL & Shutdown Link Speed = 10Mbps First
+
+
+ВЫКЛЮЧАЕМ:
+ENERGY EFFICIENT ETHERNET
+АВТООТКЛЮЧЕНИЕ ГИГАБИТНОЙ СЕТИ
+БОЛЬШОЙ КАДР
+ВСЕ, ЧТО НАЧИНАЕТСЯ НА "ПРОБУЖДЕНИЕ ПАКЕТОМ MAGIC"
+РАЗГРУЗКА TCP ИЛИ LFO
+
+
+БУФЕРЫ ПЕРЕДАЧИ И ПРИЕМА - МАКСИМАЛЬНОЕ ЗНАЧЕНИЕ
+МАКСИМАЛЬНОЕ ЧИСЛО ОЧЕРЕДЕЙ - МАКСИМАЛЬНОЕ ЧИСЛО
+
+
+левый сайтик:
+Advanced EEE - Выкл
+Gigabit Lite - Выкл
+Power Saving Mode - Выкл
+VLAN ID - 0
+Wake on magic - Вкл
+Автоотключение гигабитной скорости - Выкл
+Большой кадр - Выкл
+Буферы передачи - 128
+Буферы приема - 512
+Включение по локальной сети - Вкл
+Включить при совпадении шаблона - Выкл
+Включить при срабатывании функции - Вкл
+Выгрузка протокола ARP - Вкл
+Выгрузка протокола NS - Выкл
+Зеленый Ethernet - Выкл
+Контрольная сумма разгрузки IPv4 - Выкл
+Контрольная сумма разгрузки TCP - Выкл
+Контрольная сумма разгрузки TCP - Выкл
+Контрольная сумма разгрузки UDP - Выкл
+Контрольная сумма разгрузки UDP - Выкл
+Максимальное число очередей - 4 очереди
+Модерация прерывания - Выкл
+Получение бокового масштабирования - Выкл
+Приоритет и VLAN - Приоритет и VLAN Выкл
+Разгрузка при большой отправке v2 - Выкл
+Разгрузка при большой отправке v2 - Выкл
+Сетевой адрес - Отсутствует
+Скорость и дуплекс - 1 Гбит/с дуплекс
+Скорость при включении по локальной - Не использовать авто
+Управление потоком - Выкл
+Энергосберегающий Ethernet - Выкл

@@ -1,0 +1,77 @@
+Xbox (PowerShell от имени администратора):
+
+dism /Online /Get-ProvisionedAppxPackages | Select-String PackageName | Select-String xbox
+dism /Online /Get-ProvisionedAppxPackages | Select-String PackageName | Select-String gaming
+
+Get-AppxPackage -AllUsers  Microsoft.XboxGamingOverlay | Remove-AppxPackage
+
+Get-AppxPackage -AllUsers  Microsoft.XboxGameOverlay | Remove-AppxPackage
+
+Get-AppxPackage -AllUsers  Microsoft.XboxSpeechToTextOverlay | Remove-AppxPackage
+
+Get-AppxPackage -AllUsers  Microsoft.Xbox.TCUI | Remove-AppxPackage
+
+Get-AppxPackage -AllUsers  Microsoft.GamingServices | Remove-AppxPackage
+
+Get-AppxPackage -AllUsers  Microsoft.GamingApp | Remove-AppxPackage
+
+
+=====================================================================================================
+
+
+Отключение гибернации (Командная строка от администратора)
+
+Отключить гибернацию - powercfg -h off
+Уменьшить размер файла гибернации - powercfg -h -type reduced
+Включить гибернацию - powercfg -h on
+
+
+=====================================================================================================
+
+
+Резервное хранилище (Командная строка от администратора):
+
+Отключить зарезервированное хранилище - DISM /Online /Set-ReservedStorageState /State:Disabled
+Включить зарезервированное хранилище - DISM /Online /Set-ReservedStorageState /State:Enabled
+
+
+=====================================================================================================
+
+
+Сжатие системных файлов (Командная строка от администратора)(по желанию):
+
+Проверить сжатие системы - compact /CompactOS:query
+Сжать систему - compact /CompactOS:always
+Отменить сжатие системы - compact /CompactOS:never
+
+
+=====================================================================================================
+
+
+Очистка:
+
+Запуск меню очистки - cleanmgr /sageset:1
+Запуск очистки - cleanmgr /sagerun:1
+
+
+=====================================================================================================
+
+
+Хранилище: 
+
+Анализ хранилища WinSxS - Dism.exe /online /cleanup-image /AnalyzeComponentStore
+Очистка хранилища WinSxS - Dism.exe /online /Cleanup-Image /StartComponentCleanup /ResetBase
+
+
+=====================================================================================================
+
+
+Настройка Mmagent (PowerShell от администратора):
+
+get-mmagent
+disable-mmagent -mc
+disable-mmagent -pc
+set-mmagent -moaf 128/256/512/768/1024 (4GB/8GB/16GB/32GB/64GB)
+
+
+=====================================================================================================
