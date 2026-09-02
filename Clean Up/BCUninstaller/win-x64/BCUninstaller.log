@@ -1,0 +1,867 @@
+﻿--------------------------------------------------
+6:37:16 PM - Application startup
+18:37:19 - [Performance] Factory RegistryFactory took 2249ms to finish
+18:37:19 - FastSizeGenerator: Everything search engine is not available - es.exe failed to connect to Everything
+18:37:19 - Cache hits: 438/445
+18:37:19 - [Performance] Running command c:\programdata\chocolatey\bin\choco.exe  took 2208ms
+18:37:20 - [Performance] Factory DirectoryFactory took 317ms to finish
+18:37:21 - [Performance] Running command c:\programdata\chocolatey\bin\choco.exe list -lo -nocolor --detail took 2024ms
+18:37:21 - [Performance] Factory ChocolateyFactory took 4248ms to finish
+18:37:21 - [Performance] Running command D:\Optimization\Clean Up\BCUninstaller\win-x64\OculusHelper.exe /query took 49ms
+18:37:21 - [Performance] Factory OculusFactory took 55ms to finish
+18:37:21 - [Performance] Factory PredefinedFactory took 0ms to finish
+18:37:21 - [Performance] Factory ScoopFactory took 2ms to finish
+18:37:21 - [Performance] Running command D:\Optimization\Clean Up\BCUninstaller\win-x64\ScriptHelper.exe list took 76ms
+18:37:21 - [Performance] Factory ScriptFactory took 83ms to finish
+18:37:22 - [Performance] Running command D:\Optimization\Clean Up\BCUninstaller\win-x64\SteamHelper.exe steam took 50ms
+18:37:22 - [Performance] Running command D:\Optimization\Clean Up\BCUninstaller\win-x64\SteamHelper.exe l /i took 86ms
+18:37:22 - [Performance] Factory SteamFactory took 147ms to finish
+18:37:22 - [Performance] Running command D:\Optimization\Clean Up\BCUninstaller\win-x64\StoreAppHelper.exe /query took 740ms
+18:37:22 - [Performance] Factory StoreAppFactory took 833ms to finish
+18:37:24 - Cache hits: 537/549
+--------------------------------------------------
+12:30:23 PM - Application startup
+12:30:27 - [Performance] Factory RegistryFactory took 2211ms to finish
+12:30:27 - FastSizeGenerator: Everything search engine is not available - es.exe failed to connect to Everything
+12:30:27 - Cache hits: 445/446
+12:30:27 - [Performance] Running command c:\programdata\chocolatey\bin\choco.exe  took 2154ms
+12:30:27 - [Performance] Factory DirectoryFactory took 347ms to finish
+12:30:29 - [Performance] Running command c:\programdata\chocolatey\bin\choco.exe list -lo -nocolor --detail took 2025ms
+12:30:29 - [Performance] Factory ChocolateyFactory took 4193ms to finish
+12:30:29 - [Performance] Running command D:\Optimization\Clean Up\BCUninstaller\win-x64\OculusHelper.exe /query took 48ms
+12:30:29 - [Performance] Factory OculusFactory took 55ms to finish
+12:30:29 - [Performance] Factory PredefinedFactory took 0ms to finish
+12:30:29 - [Performance] Factory ScoopFactory took 2ms to finish
+12:30:29 - [Performance] Running command D:\Optimization\Clean Up\BCUninstaller\win-x64\ScriptHelper.exe list took 75ms
+12:30:29 - [Performance] Factory ScriptFactory took 82ms to finish
+12:30:29 - [Performance] Running command D:\Optimization\Clean Up\BCUninstaller\win-x64\SteamHelper.exe steam took 49ms
+12:30:29 - [Performance] Running command D:\Optimization\Clean Up\BCUninstaller\win-x64\SteamHelper.exe l /i took 86ms
+12:30:29 - [Performance] Factory SteamFactory took 147ms to finish
+12:30:30 - [Performance] Running command D:\Optimization\Clean Up\BCUninstaller\win-x64\StoreAppHelper.exe /query took 820ms
+12:30:30 - [Performance] Factory StoreAppFactory took 921ms to finish
+12:30:31 - Cache hits: 549/550
+12:31:17 - System.IO.IOException: The filename, directory name, or volume label syntax is incorrect. : 'D:\Optimization\Clean Up\BCUninstaller\win-x64\?\C:\Windows\System32\SecurityHealth\10.0.29554.1001-0\SecurityHealthAgent.dll'
+   at System.IO.FileSystemInfo.EnsureDataInitialized()
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(DirectoryInfo dir)
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(String installLocation)
+12:31:17 - System.IO.IOException: The filename, directory name, or volume label syntax is incorrect. : 'D:\Optimization\Clean Up\BCUninstaller\win-x64\?\C:\Windows\System32\SecurityHealth\10.0.29554.1001-0\SecurityHealthAgent.dll'
+   at System.IO.FileSystemInfo.EnsureDataInitialized()
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(DirectoryInfo dir)
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(String installLocation)
+12:31:17 - System.IO.IOException: The filename, directory name, or volume label syntax is incorrect. : 'D:\Optimization\Clean Up\BCUninstaller\win-x64\?\C:\Windows\System32\SecurityHealth\10.0.29554.1001-0\SecurityHealthAgent.dll'
+   at System.IO.FileSystemInfo.EnsureDataInitialized()
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(DirectoryInfo dir)
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(String installLocation)
+12:31:17 - System.IO.IOException: The filename, directory name, or volume label syntax is incorrect. : 'D:\Optimization\Clean Up\BCUninstaller\win-x64\?\C:\Windows\System32\SecurityHealth\10.0.29554.1001-0\SecurityHealthAgent.dll'
+   at System.IO.FileSystemInfo.EnsureDataInitialized()
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(DirectoryInfo dir)
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(String installLocation)
+12:31:17 - System.IO.IOException: The filename, directory name, or volume label syntax is incorrect. : 'D:\Optimization\Clean Up\BCUninstaller\win-x64\?\C:\Windows\System32\SecurityHealth\10.0.29554.1001-0\SecurityHealthAgent.dll'
+   at System.IO.FileSystemInfo.EnsureDataInitialized()
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(DirectoryInfo dir)
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(String installLocation)
+12:31:17 - System.IO.IOException: The filename, directory name, or volume label syntax is incorrect. : 'D:\Optimization\Clean Up\BCUninstaller\win-x64\?\C:\Windows\System32\SecurityHealth\10.0.29554.1001-0\SecurityHealthProxyStub.dll'
+   at System.IO.FileSystemInfo.EnsureDataInitialized()
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(DirectoryInfo dir)
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(String installLocation)
+12:31:17 - System.IO.IOException: The filename, directory name, or volume label syntax is incorrect. : 'D:\Optimization\Clean Up\BCUninstaller\win-x64\?\C:\Windows\System32\SecurityHealth\10.0.29554.1001-0\SecurityHealthAgent.dll'
+   at System.IO.FileSystemInfo.EnsureDataInitialized()
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(DirectoryInfo dir)
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(String installLocation)
+12:31:17 - System.IO.IOException: The filename, directory name, or volume label syntax is incorrect. : 'D:\Optimization\Clean Up\BCUninstaller\win-x64\?\C:\Windows\System32\SecurityHealth\10.0.29554.1001-0\SecurityHealthAgent.dll'
+   at System.IO.FileSystemInfo.EnsureDataInitialized()
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(DirectoryInfo dir)
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(String installLocation)
+12:31:17 - System.IO.IOException: The filename, directory name, or volume label syntax is incorrect. : 'D:\Optimization\Clean Up\BCUninstaller\win-x64\?\C:\Windows\System32\SecurityHealth\10.0.29554.1001-0\SecurityHealthAgent.dll'
+   at System.IO.FileSystemInfo.EnsureDataInitialized()
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(DirectoryInfo dir)
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(String installLocation)
+12:31:17 - System.IO.IOException: The filename, directory name, or volume label syntax is incorrect. : 'D:\Optimization\Clean Up\BCUninstaller\win-x64\?\C:\Windows\System32\SecurityHealth\10.0.29554.1001-0\SecurityHealthAgent.dll'
+   at System.IO.FileSystemInfo.EnsureDataInitialized()
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(DirectoryInfo dir)
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(String installLocation)
+12:31:17 - System.IO.IOException: The filename, directory name, or volume label syntax is incorrect. : 'D:\Optimization\Clean Up\BCUninstaller\win-x64\?\C:\Windows\System32\SecurityHealth\10.0.29554.1001-0\SecurityHealthAgent.dll'
+   at System.IO.FileSystemInfo.EnsureDataInitialized()
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(DirectoryInfo dir)
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(String installLocation)
+12:31:17 - System.IO.IOException: The filename, directory name, or volume label syntax is incorrect. : 'D:\Optimization\Clean Up\BCUninstaller\win-x64\?\C:\Windows\System32\SecurityHealth\10.0.29554.1001-0\SecurityHealthAgent.dll'
+   at System.IO.FileSystemInfo.EnsureDataInitialized()
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(DirectoryInfo dir)
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(String installLocation)
+12:31:17 - System.IO.IOException: The filename, directory name, or volume label syntax is incorrect. : 'D:\Optimization\Clean Up\BCUninstaller\win-x64\?\C:\Windows\System32\SecurityHealth\10.0.29554.1001-0\SecurityHealthAgent.dll'
+   at System.IO.FileSystemInfo.EnsureDataInitialized()
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(DirectoryInfo dir)
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(String installLocation)
+12:31:17 - System.IO.IOException: The filename, directory name, or volume label syntax is incorrect. : 'D:\Optimization\Clean Up\BCUninstaller\win-x64\?\C:\Windows\System32\SecurityHealth\10.0.29554.1001-0\SecurityHealthAgent.dll'
+   at System.IO.FileSystemInfo.EnsureDataInitialized()
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(DirectoryInfo dir)
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(String installLocation)
+12:31:17 - System.IO.IOException: The filename, directory name, or volume label syntax is incorrect. : 'D:\Optimization\Clean Up\BCUninstaller\win-x64\?\C:\Windows\System32\SecurityHealth\10.0.29554.1001-0\SecurityHealthAgent.dll'
+   at System.IO.FileSystemInfo.EnsureDataInitialized()
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(DirectoryInfo dir)
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(String installLocation)
+12:31:17 - System.IO.IOException: The filename, directory name, or volume label syntax is incorrect. : 'D:\Optimization\Clean Up\BCUninstaller\win-x64\?\C:\Windows\System32\SecurityHealth\10.0.29554.1001-0\SecurityHealthAgent.dll'
+   at System.IO.FileSystemInfo.EnsureDataInitialized()
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(DirectoryInfo dir)
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(String installLocation)
+12:31:17 - System.IO.IOException: The filename, directory name, or volume label syntax is incorrect. : 'D:\Optimization\Clean Up\BCUninstaller\win-x64\?\C:\Windows\System32\SecurityHealth\10.0.29554.1001-0\SecurityHealthAgent.dll'
+   at System.IO.FileSystemInfo.EnsureDataInitialized()
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(DirectoryInfo dir)
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(String installLocation)
+12:31:17 - System.IO.IOException: The filename, directory name, or volume label syntax is incorrect. : 'D:\Optimization\Clean Up\BCUninstaller\win-x64\?\C:\Windows\System32\SecurityHealth\10.0.29554.1001-0\SecurityHealthAgent.dll'
+   at System.IO.FileSystemInfo.EnsureDataInitialized()
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(DirectoryInfo dir)
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(String installLocation)
+12:31:17 - System.IO.IOException: The filename, directory name, or volume label syntax is incorrect. : 'D:\Optimization\Clean Up\BCUninstaller\win-x64\?\C:\Windows\System32\SecurityHealth\10.0.29554.1001-0\SecurityHealthSSO.dll'
+   at System.IO.FileSystemInfo.EnsureDataInitialized()
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(DirectoryInfo dir)
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(String installLocation)
+12:31:17 - System.IO.IOException: The filename, directory name, or volume label syntax is incorrect. : 'D:\Optimization\Clean Up\BCUninstaller\win-x64\?\C:\Windows\System32\SecurityHealth\10.0.29554.1001-0\SecurityHealthAgent.dll'
+   at System.IO.FileSystemInfo.EnsureDataInitialized()
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(DirectoryInfo dir)
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(String installLocation)
+12:31:20 - Attempt failed, skipping. Error: System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+ ---> System.Runtime.InteropServices.COMException (0x80270222): Cannot access Homegroup. Homegroup may not be set up or may have encountered an error. (0x80270222)
+   at WinRT.ExceptionHelpers.<ThrowExceptionForHR>g__Throw|20_0(Int32 hr)
+   at WinRT.ExceptionHelpers.ThrowExceptionForHR(Int32 hr)
+   at ABI.Windows.Storage.IKnownFoldersStaticsMethods.get_HomeGroup(IObjectReference _obj)
+   at Windows.Storage.KnownFolders.get_HomeGroup()
+   --- End of inner exception stack trace ---
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Span`1& arguments, Signature sig, Boolean constructor, Boolean wrapExceptions)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.PropertyInfo.GetValue(Object obj)
+   at UninstallTools.Junk.JunkManager.<>c.<GetProhibitedLocations>b__4_1(PropertyInfo p)
+   at Klocman.Extensions.EnumerableExtensions.Attempt[TIn,TOut](IEnumerable`1 baseEnumerable, Func`2 action)+MoveNext()
+12:31:44 - [Performance] Factory RegistryFactory took 2123ms to finish
+12:31:44 - Cache hits: 445/445
+12:31:44 - [Performance] Factory DirectoryFactory took 209ms to finish
+12:31:44 - [Performance] Running command c:\programdata\chocolatey\bin\choco.exe  took 2037ms
+12:31:46 - [Performance] Running command c:\programdata\chocolatey\bin\choco.exe list -lo -nocolor --detail took 2002ms
+12:31:46 - [Performance] Factory ChocolateyFactory took 4045ms to finish
+12:31:46 - [Performance] Running command D:\Optimization\Clean Up\BCUninstaller\win-x64\OculusHelper.exe /query took 41ms
+12:31:46 - [Performance] Factory OculusFactory took 43ms to finish
+12:31:46 - [Performance] Factory PredefinedFactory took 0ms to finish
+12:31:46 - [Performance] Factory ScoopFactory took 0ms to finish
+12:31:46 - [Performance] Running command D:\Optimization\Clean Up\BCUninstaller\win-x64\ScriptHelper.exe list took 71ms
+12:31:46 - [Performance] Factory ScriptFactory took 74ms to finish
+12:31:46 - [Performance] Running command D:\Optimization\Clean Up\BCUninstaller\win-x64\SteamHelper.exe steam took 44ms
+12:31:47 - [Performance] Running command D:\Optimization\Clean Up\BCUninstaller\win-x64\SteamHelper.exe l /i took 86ms
+12:31:47 - [Performance] Factory SteamFactory took 138ms to finish
+12:31:47 - [Performance] Running command D:\Optimization\Clean Up\BCUninstaller\win-x64\StoreAppHelper.exe /query took 651ms
+12:31:47 - [Performance] Factory StoreAppFactory took 721ms to finish
+12:31:49 - Cache hits: 549/549
+--------------------------------------------------
+08:47:18 - Application startup
+08:47:22 - [Performance] Factory RegistryFactory took 2238ms to finish
+08:47:22 - FastSizeGenerator: Everything search engine is not available - es.exe failed to connect to Everything
+08:47:22 - Cache hits: 445/445
+08:47:22 - [Performance] Running command c:\programdata\chocolatey\bin\choco.exe  took 2251ms
+08:47:22 - [Performance] Factory DirectoryFactory took 303ms to finish
+08:47:24 - [Performance] Running command c:\programdata\chocolatey\bin\choco.exe list -lo -nocolor --detail took 2021ms
+08:47:24 - [Performance] Factory ChocolateyFactory took 4286ms to finish
+08:47:24 - [Performance] Running command D:\Optimization\Clean Up\BCUninstaller\win-x64\OculusHelper.exe /query took 47ms
+08:47:24 - [Performance] Factory OculusFactory took 53ms to finish
+08:47:24 - [Performance] Factory PredefinedFactory took 0ms to finish
+08:47:24 - [Performance] Factory ScoopFactory took 2ms to finish
+08:47:24 - [Performance] Running command D:\Optimization\Clean Up\BCUninstaller\win-x64\ScriptHelper.exe list took 72ms
+08:47:24 - [Performance] Factory ScriptFactory took 79ms to finish
+08:47:24 - [Performance] Running command D:\Optimization\Clean Up\BCUninstaller\win-x64\SteamHelper.exe steam took 45ms
+08:47:24 - [Performance] Running command D:\Optimization\Clean Up\BCUninstaller\win-x64\SteamHelper.exe l /i took 85ms
+08:47:24 - [Performance] Factory SteamFactory took 140ms to finish
+08:47:25 - [Performance] Running command D:\Optimization\Clean Up\BCUninstaller\win-x64\StoreAppHelper.exe /query took 814ms
+08:47:25 - [Performance] Factory StoreAppFactory took 907ms to finish
+08:47:26 - Cache hits: 549/549
+08:48:12 - System.IO.IOException: The filename, directory name, or volume label syntax is incorrect. : 'D:\Optimization\Clean Up\BCUninstaller\win-x64\?\C:\Windows\System32\SecurityHealth\10.0.29554.1001-0\SecurityHealthAgent.dll'
+   at System.IO.FileSystemInfo.EnsureDataInitialized()
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(DirectoryInfo dir)
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(String installLocation)
+08:48:12 - System.IO.IOException: The filename, directory name, or volume label syntax is incorrect. : 'D:\Optimization\Clean Up\BCUninstaller\win-x64\?\C:\Windows\System32\SecurityHealth\10.0.29554.1001-0\SecurityHealthAgent.dll'
+   at System.IO.FileSystemInfo.EnsureDataInitialized()
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(DirectoryInfo dir)
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(String installLocation)
+08:48:12 - System.IO.IOException: The filename, directory name, or volume label syntax is incorrect. : 'D:\Optimization\Clean Up\BCUninstaller\win-x64\?\C:\Windows\System32\SecurityHealth\10.0.29554.1001-0\SecurityHealthAgent.dll'
+   at System.IO.FileSystemInfo.EnsureDataInitialized()
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(DirectoryInfo dir)
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(String installLocation)
+08:48:12 - System.IO.IOException: The filename, directory name, or volume label syntax is incorrect. : 'D:\Optimization\Clean Up\BCUninstaller\win-x64\?\C:\Windows\System32\SecurityHealth\10.0.29554.1001-0\SecurityHealthAgent.dll'
+   at System.IO.FileSystemInfo.EnsureDataInitialized()
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(DirectoryInfo dir)
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(String installLocation)
+08:48:12 - System.IO.IOException: The filename, directory name, or volume label syntax is incorrect. : 'D:\Optimization\Clean Up\BCUninstaller\win-x64\?\C:\Windows\System32\SecurityHealth\10.0.29554.1001-0\SecurityHealthAgent.dll'
+   at System.IO.FileSystemInfo.EnsureDataInitialized()
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(DirectoryInfo dir)
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(String installLocation)
+08:48:12 - System.IO.IOException: The filename, directory name, or volume label syntax is incorrect. : 'D:\Optimization\Clean Up\BCUninstaller\win-x64\?\C:\Windows\System32\SecurityHealth\10.0.29554.1001-0\SecurityHealthProxyStub.dll'
+   at System.IO.FileSystemInfo.EnsureDataInitialized()
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(DirectoryInfo dir)
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(String installLocation)
+08:48:12 - System.IO.IOException: The filename, directory name, or volume label syntax is incorrect. : 'D:\Optimization\Clean Up\BCUninstaller\win-x64\?\C:\Windows\System32\SecurityHealth\10.0.29554.1001-0\SecurityHealthAgent.dll'
+   at System.IO.FileSystemInfo.EnsureDataInitialized()
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(DirectoryInfo dir)
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(String installLocation)
+08:48:12 - System.IO.IOException: The filename, directory name, or volume label syntax is incorrect. : 'D:\Optimization\Clean Up\BCUninstaller\win-x64\?\C:\Windows\System32\SecurityHealth\10.0.29554.1001-0\SecurityHealthAgent.dll'
+   at System.IO.FileSystemInfo.EnsureDataInitialized()
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(DirectoryInfo dir)
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(String installLocation)
+08:48:12 - System.IO.IOException: The filename, directory name, or volume label syntax is incorrect. : 'D:\Optimization\Clean Up\BCUninstaller\win-x64\?\C:\Windows\System32\SecurityHealth\10.0.29554.1001-0\SecurityHealthAgent.dll'
+   at System.IO.FileSystemInfo.EnsureDataInitialized()
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(DirectoryInfo dir)
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(String installLocation)
+08:48:12 - System.IO.IOException: The filename, directory name, or volume label syntax is incorrect. : 'D:\Optimization\Clean Up\BCUninstaller\win-x64\?\C:\Windows\System32\SecurityHealth\10.0.29554.1001-0\SecurityHealthAgent.dll'
+   at System.IO.FileSystemInfo.EnsureDataInitialized()
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(DirectoryInfo dir)
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(String installLocation)
+08:48:12 - System.IO.IOException: The filename, directory name, or volume label syntax is incorrect. : 'D:\Optimization\Clean Up\BCUninstaller\win-x64\?\C:\Windows\System32\SecurityHealth\10.0.29554.1001-0\SecurityHealthAgent.dll'
+   at System.IO.FileSystemInfo.EnsureDataInitialized()
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(DirectoryInfo dir)
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(String installLocation)
+08:48:12 - System.IO.IOException: The filename, directory name, or volume label syntax is incorrect. : 'D:\Optimization\Clean Up\BCUninstaller\win-x64\?\C:\Windows\System32\SecurityHealth\10.0.29554.1001-0\SecurityHealthAgent.dll'
+   at System.IO.FileSystemInfo.EnsureDataInitialized()
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(DirectoryInfo dir)
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(String installLocation)
+08:48:12 - System.IO.IOException: The filename, directory name, or volume label syntax is incorrect. : 'D:\Optimization\Clean Up\BCUninstaller\win-x64\?\C:\Windows\System32\SecurityHealth\10.0.29554.1001-0\SecurityHealthAgent.dll'
+   at System.IO.FileSystemInfo.EnsureDataInitialized()
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(DirectoryInfo dir)
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(String installLocation)
+08:48:12 - System.IO.IOException: The filename, directory name, or volume label syntax is incorrect. : 'D:\Optimization\Clean Up\BCUninstaller\win-x64\?\C:\Windows\System32\SecurityHealth\10.0.29554.1001-0\SecurityHealthAgent.dll'
+   at System.IO.FileSystemInfo.EnsureDataInitialized()
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(DirectoryInfo dir)
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(String installLocation)
+08:48:12 - System.IO.IOException: The filename, directory name, or volume label syntax is incorrect. : 'D:\Optimization\Clean Up\BCUninstaller\win-x64\?\C:\Windows\System32\SecurityHealth\10.0.29554.1001-0\SecurityHealthAgent.dll'
+   at System.IO.FileSystemInfo.EnsureDataInitialized()
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(DirectoryInfo dir)
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(String installLocation)
+08:48:12 - System.IO.IOException: The filename, directory name, or volume label syntax is incorrect. : 'D:\Optimization\Clean Up\BCUninstaller\win-x64\?\C:\Windows\System32\SecurityHealth\10.0.29554.1001-0\SecurityHealthAgent.dll'
+   at System.IO.FileSystemInfo.EnsureDataInitialized()
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(DirectoryInfo dir)
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(String installLocation)
+08:48:12 - System.IO.IOException: The filename, directory name, or volume label syntax is incorrect. : 'D:\Optimization\Clean Up\BCUninstaller\win-x64\?\C:\Windows\System32\SecurityHealth\10.0.29554.1001-0\SecurityHealthAgent.dll'
+   at System.IO.FileSystemInfo.EnsureDataInitialized()
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(DirectoryInfo dir)
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(String installLocation)
+08:48:12 - System.IO.IOException: The filename, directory name, or volume label syntax is incorrect. : 'D:\Optimization\Clean Up\BCUninstaller\win-x64\?\C:\Windows\System32\SecurityHealth\10.0.29554.1001-0\SecurityHealthAgent.dll'
+   at System.IO.FileSystemInfo.EnsureDataInitialized()
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(DirectoryInfo dir)
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(String installLocation)
+08:48:12 - System.IO.IOException: The filename, directory name, or volume label syntax is incorrect. : 'D:\Optimization\Clean Up\BCUninstaller\win-x64\?\C:\Windows\System32\SecurityHealth\10.0.29554.1001-0\SecurityHealthSSO.dll'
+   at System.IO.FileSystemInfo.EnsureDataInitialized()
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(DirectoryInfo dir)
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(String installLocation)
+08:48:12 - System.IO.IOException: The filename, directory name, or volume label syntax is incorrect. : 'D:\Optimization\Clean Up\BCUninstaller\win-x64\?\C:\Windows\System32\SecurityHealth\10.0.29554.1001-0\SecurityHealthAgent.dll'
+   at System.IO.FileSystemInfo.EnsureDataInitialized()
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(DirectoryInfo dir)
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(String installLocation)
+08:48:15 - Attempt failed, skipping. Error: System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+ ---> System.Runtime.InteropServices.COMException (0x80270222): Cannot access Homegroup. Homegroup may not be set up or may have encountered an error. (0x80270222)
+   at WinRT.ExceptionHelpers.<ThrowExceptionForHR>g__Throw|20_0(Int32 hr)
+   at WinRT.ExceptionHelpers.ThrowExceptionForHR(Int32 hr)
+   at ABI.Windows.Storage.IKnownFoldersStaticsMethods.get_HomeGroup(IObjectReference _obj)
+   at Windows.Storage.KnownFolders.get_HomeGroup()
+   --- End of inner exception stack trace ---
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Span`1& arguments, Signature sig, Boolean constructor, Boolean wrapExceptions)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.PropertyInfo.GetValue(Object obj)
+   at UninstallTools.Junk.JunkManager.<>c.<GetProhibitedLocations>b__4_1(PropertyInfo p)
+   at Klocman.Extensions.EnumerableExtensions.Attempt[TIn,TOut](IEnumerable`1 baseEnumerable, Func`2 action)+MoveNext()
+08:48:23 - [Performance] Factory RegistryFactory took 2105ms to finish
+08:48:23 - Cache hits: 444/444
+08:48:24 - [Performance] Factory DirectoryFactory took 196ms to finish
+08:48:24 - [Performance] Running command c:\programdata\chocolatey\bin\choco.exe  took 2044ms
+08:48:26 - [Performance] Running command c:\programdata\chocolatey\bin\choco.exe list -lo -nocolor --detail took 1991ms
+08:48:26 - [Performance] Factory ChocolateyFactory took 4042ms to finish
+08:48:26 - [Performance] Running command D:\Optimization\Clean Up\BCUninstaller\win-x64\OculusHelper.exe /query took 39ms
+08:48:26 - [Performance] Factory OculusFactory took 42ms to finish
+08:48:26 - [Performance] Factory PredefinedFactory took 0ms to finish
+08:48:26 - [Performance] Factory ScoopFactory took 0ms to finish
+08:48:26 - [Performance] Running command D:\Optimization\Clean Up\BCUninstaller\win-x64\ScriptHelper.exe list took 68ms
+08:48:26 - [Performance] Factory ScriptFactory took 71ms to finish
+08:48:26 - [Performance] Running command D:\Optimization\Clean Up\BCUninstaller\win-x64\SteamHelper.exe steam took 43ms
+08:48:26 - [Performance] Running command D:\Optimization\Clean Up\BCUninstaller\win-x64\SteamHelper.exe l /i took 84ms
+08:48:26 - [Performance] Factory SteamFactory took 135ms to finish
+08:48:27 - [Performance] Running command D:\Optimization\Clean Up\BCUninstaller\win-x64\StoreAppHelper.exe /query took 661ms
+08:48:27 - [Performance] Factory StoreAppFactory took 730ms to finish
+08:48:28 - Cache hits: 548/548
+08:49:55 - System.IO.IOException: The filename, directory name, or volume label syntax is incorrect. : 'D:\Optimization\Clean Up\BCUninstaller\win-x64\?\C:\Windows\System32\SecurityHealth\10.0.29554.1001-0\SecurityHealthAgent.dll'
+   at System.IO.FileSystemInfo.EnsureDataInitialized()
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(DirectoryInfo dir)
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(String installLocation)
+08:49:55 - System.IO.IOException: The filename, directory name, or volume label syntax is incorrect. : 'D:\Optimization\Clean Up\BCUninstaller\win-x64\?\C:\Windows\System32\SecurityHealth\10.0.29554.1001-0\SecurityHealthAgent.dll'
+   at System.IO.FileSystemInfo.EnsureDataInitialized()
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(DirectoryInfo dir)
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(String installLocation)
+08:49:55 - System.IO.IOException: The filename, directory name, or volume label syntax is incorrect. : 'D:\Optimization\Clean Up\BCUninstaller\win-x64\?\C:\Windows\System32\SecurityHealth\10.0.29554.1001-0\SecurityHealthAgent.dll'
+   at System.IO.FileSystemInfo.EnsureDataInitialized()
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(DirectoryInfo dir)
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(String installLocation)
+08:49:55 - System.IO.IOException: The filename, directory name, or volume label syntax is incorrect. : 'D:\Optimization\Clean Up\BCUninstaller\win-x64\?\C:\Windows\System32\SecurityHealth\10.0.29554.1001-0\SecurityHealthAgent.dll'
+   at System.IO.FileSystemInfo.EnsureDataInitialized()
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(DirectoryInfo dir)
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(String installLocation)
+08:49:55 - System.IO.IOException: The filename, directory name, or volume label syntax is incorrect. : 'D:\Optimization\Clean Up\BCUninstaller\win-x64\?\C:\Windows\System32\SecurityHealth\10.0.29554.1001-0\SecurityHealthAgent.dll'
+   at System.IO.FileSystemInfo.EnsureDataInitialized()
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(DirectoryInfo dir)
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(String installLocation)
+08:49:55 - System.IO.IOException: The filename, directory name, or volume label syntax is incorrect. : 'D:\Optimization\Clean Up\BCUninstaller\win-x64\?\C:\Windows\System32\SecurityHealth\10.0.29554.1001-0\SecurityHealthProxyStub.dll'
+   at System.IO.FileSystemInfo.EnsureDataInitialized()
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(DirectoryInfo dir)
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(String installLocation)
+08:49:55 - System.IO.IOException: The filename, directory name, or volume label syntax is incorrect. : 'D:\Optimization\Clean Up\BCUninstaller\win-x64\?\C:\Windows\System32\SecurityHealth\10.0.29554.1001-0\SecurityHealthAgent.dll'
+   at System.IO.FileSystemInfo.EnsureDataInitialized()
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(DirectoryInfo dir)
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(String installLocation)
+08:49:55 - System.IO.IOException: The filename, directory name, or volume label syntax is incorrect. : 'D:\Optimization\Clean Up\BCUninstaller\win-x64\?\C:\Windows\System32\SecurityHealth\10.0.29554.1001-0\SecurityHealthAgent.dll'
+   at System.IO.FileSystemInfo.EnsureDataInitialized()
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(DirectoryInfo dir)
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(String installLocation)
+08:49:55 - System.IO.IOException: The filename, directory name, or volume label syntax is incorrect. : 'D:\Optimization\Clean Up\BCUninstaller\win-x64\?\C:\Windows\System32\SecurityHealth\10.0.29554.1001-0\SecurityHealthAgent.dll'
+   at System.IO.FileSystemInfo.EnsureDataInitialized()
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(DirectoryInfo dir)
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(String installLocation)
+08:49:55 - System.IO.IOException: The filename, directory name, or volume label syntax is incorrect. : 'D:\Optimization\Clean Up\BCUninstaller\win-x64\?\C:\Windows\System32\SecurityHealth\10.0.29554.1001-0\SecurityHealthAgent.dll'
+   at System.IO.FileSystemInfo.EnsureDataInitialized()
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(DirectoryInfo dir)
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(String installLocation)
+08:49:55 - System.IO.IOException: The filename, directory name, or volume label syntax is incorrect. : 'D:\Optimization\Clean Up\BCUninstaller\win-x64\?\C:\Windows\System32\SecurityHealth\10.0.29554.1001-0\SecurityHealthAgent.dll'
+   at System.IO.FileSystemInfo.EnsureDataInitialized()
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(DirectoryInfo dir)
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(String installLocation)
+08:49:55 - System.IO.IOException: The filename, directory name, or volume label syntax is incorrect. : 'D:\Optimization\Clean Up\BCUninstaller\win-x64\?\C:\Windows\System32\SecurityHealth\10.0.29554.1001-0\SecurityHealthAgent.dll'
+   at System.IO.FileSystemInfo.EnsureDataInitialized()
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(DirectoryInfo dir)
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(String installLocation)
+08:49:55 - System.IO.IOException: The filename, directory name, or volume label syntax is incorrect. : 'D:\Optimization\Clean Up\BCUninstaller\win-x64\?\C:\Windows\System32\SecurityHealth\10.0.29554.1001-0\SecurityHealthAgent.dll'
+   at System.IO.FileSystemInfo.EnsureDataInitialized()
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(DirectoryInfo dir)
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(String installLocation)
+08:49:55 - System.IO.IOException: The filename, directory name, or volume label syntax is incorrect. : 'D:\Optimization\Clean Up\BCUninstaller\win-x64\?\C:\Windows\System32\SecurityHealth\10.0.29554.1001-0\SecurityHealthAgent.dll'
+   at System.IO.FileSystemInfo.EnsureDataInitialized()
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(DirectoryInfo dir)
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(String installLocation)
+08:49:55 - System.IO.IOException: The filename, directory name, or volume label syntax is incorrect. : 'D:\Optimization\Clean Up\BCUninstaller\win-x64\?\C:\Windows\System32\SecurityHealth\10.0.29554.1001-0\SecurityHealthAgent.dll'
+   at System.IO.FileSystemInfo.EnsureDataInitialized()
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(DirectoryInfo dir)
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(String installLocation)
+08:49:55 - System.IO.IOException: The filename, directory name, or volume label syntax is incorrect. : 'D:\Optimization\Clean Up\BCUninstaller\win-x64\?\C:\Windows\System32\SecurityHealth\10.0.29554.1001-0\SecurityHealthAgent.dll'
+   at System.IO.FileSystemInfo.EnsureDataInitialized()
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(DirectoryInfo dir)
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(String installLocation)
+08:49:55 - System.IO.IOException: The filename, directory name, or volume label syntax is incorrect. : 'D:\Optimization\Clean Up\BCUninstaller\win-x64\?\C:\Windows\System32\SecurityHealth\10.0.29554.1001-0\SecurityHealthAgent.dll'
+   at System.IO.FileSystemInfo.EnsureDataInitialized()
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(DirectoryInfo dir)
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(String installLocation)
+08:49:55 - System.IO.IOException: The filename, directory name, or volume label syntax is incorrect. : 'D:\Optimization\Clean Up\BCUninstaller\win-x64\?\C:\Windows\System32\SecurityHealth\10.0.29554.1001-0\SecurityHealthAgent.dll'
+   at System.IO.FileSystemInfo.EnsureDataInitialized()
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(DirectoryInfo dir)
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(String installLocation)
+08:49:55 - System.IO.IOException: The filename, directory name, or volume label syntax is incorrect. : 'D:\Optimization\Clean Up\BCUninstaller\win-x64\?\C:\Windows\System32\SecurityHealth\10.0.29554.1001-0\SecurityHealthSSO.dll'
+   at System.IO.FileSystemInfo.EnsureDataInitialized()
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(DirectoryInfo dir)
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(String installLocation)
+08:49:55 - System.IO.IOException: The filename, directory name, or volume label syntax is incorrect. : 'D:\Optimization\Clean Up\BCUninstaller\win-x64\?\C:\Windows\System32\SecurityHealth\10.0.29554.1001-0\SecurityHealthAgent.dll'
+   at System.IO.FileSystemInfo.EnsureDataInitialized()
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(DirectoryInfo dir)
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(String installLocation)
+08:49:57 - Attempt failed, skipping. Error: System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+ ---> System.Runtime.InteropServices.COMException (0x80270222): Cannot access Homegroup. Homegroup may not be set up or may have encountered an error. (0x80270222)
+   at WinRT.ExceptionHelpers.<ThrowExceptionForHR>g__Throw|20_0(Int32 hr)
+   at WinRT.ExceptionHelpers.ThrowExceptionForHR(Int32 hr)
+   at ABI.Windows.Storage.IKnownFoldersStaticsMethods.get_HomeGroup(IObjectReference _obj)
+   at Windows.Storage.KnownFolders.get_HomeGroup()
+   --- End of inner exception stack trace ---
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Span`1& arguments, Signature sig, Boolean constructor, Boolean wrapExceptions)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.PropertyInfo.GetValue(Object obj)
+   at UninstallTools.Junk.JunkManager.<>c.<GetProhibitedLocations>b__4_1(PropertyInfo p)
+   at Klocman.Extensions.EnumerableExtensions.Attempt[TIn,TOut](IEnumerable`1 baseEnumerable, Func`2 action)+MoveNext()
+08:50:03 - [Performance] Running command c:\programdata\chocolatey\bin\choco.exe  took 2018ms
+08:50:03 - [Performance] Factory RegistryFactory took 2195ms to finish
+08:50:03 - Cache hits: 443/443
+08:50:03 - [Performance] Factory DirectoryFactory took 206ms to finish
+08:50:05 - [Performance] Running command c:\programdata\chocolatey\bin\choco.exe list -lo -nocolor --detail took 2004ms
+08:50:05 - [Performance] Factory ChocolateyFactory took 4028ms to finish
+08:50:05 - [Performance] Running command D:\Optimization\Clean Up\BCUninstaller\win-x64\OculusHelper.exe /query took 40ms
+08:50:05 - [Performance] Factory OculusFactory took 42ms to finish
+08:50:05 - [Performance] Factory PredefinedFactory took 0ms to finish
+08:50:05 - [Performance] Factory ScoopFactory took 0ms to finish
+08:50:05 - [Performance] Running command D:\Optimization\Clean Up\BCUninstaller\win-x64\ScriptHelper.exe list took 69ms
+08:50:05 - [Performance] Factory ScriptFactory took 72ms to finish
+08:50:05 - [Performance] Running command D:\Optimization\Clean Up\BCUninstaller\win-x64\SteamHelper.exe steam took 42ms
+08:50:05 - [Performance] Running command D:\Optimization\Clean Up\BCUninstaller\win-x64\SteamHelper.exe l /i took 85ms
+08:50:05 - [Performance] Factory SteamFactory took 134ms to finish
+08:50:06 - [Performance] Running command D:\Optimization\Clean Up\BCUninstaller\win-x64\StoreAppHelper.exe /query took 661ms
+08:50:06 - [Performance] Factory StoreAppFactory took 726ms to finish
+08:50:07 - Cache hits: 547/547
+08:51:55 - System.IO.IOException: The filename, directory name, or volume label syntax is incorrect. : 'D:\Optimization\Clean Up\BCUninstaller\win-x64\?\C:\Windows\System32\SecurityHealth\10.0.29554.1001-0\SecurityHealthAgent.dll'
+   at System.IO.FileSystemInfo.EnsureDataInitialized()
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(DirectoryInfo dir)
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(String installLocation)
+08:51:55 - System.IO.IOException: The filename, directory name, or volume label syntax is incorrect. : 'D:\Optimization\Clean Up\BCUninstaller\win-x64\?\C:\Windows\System32\SecurityHealth\10.0.29554.1001-0\SecurityHealthAgent.dll'
+   at System.IO.FileSystemInfo.EnsureDataInitialized()
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(DirectoryInfo dir)
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(String installLocation)
+08:51:55 - System.IO.IOException: The filename, directory name, or volume label syntax is incorrect. : 'D:\Optimization\Clean Up\BCUninstaller\win-x64\?\C:\Windows\System32\SecurityHealth\10.0.29554.1001-0\SecurityHealthAgent.dll'
+   at System.IO.FileSystemInfo.EnsureDataInitialized()
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(DirectoryInfo dir)
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(String installLocation)
+08:51:55 - System.IO.IOException: The filename, directory name, or volume label syntax is incorrect. : 'D:\Optimization\Clean Up\BCUninstaller\win-x64\?\C:\Windows\System32\SecurityHealth\10.0.29554.1001-0\SecurityHealthAgent.dll'
+   at System.IO.FileSystemInfo.EnsureDataInitialized()
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(DirectoryInfo dir)
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(String installLocation)
+08:51:55 - System.IO.IOException: The filename, directory name, or volume label syntax is incorrect. : 'D:\Optimization\Clean Up\BCUninstaller\win-x64\?\C:\Windows\System32\SecurityHealth\10.0.29554.1001-0\SecurityHealthAgent.dll'
+   at System.IO.FileSystemInfo.EnsureDataInitialized()
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(DirectoryInfo dir)
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(String installLocation)
+08:51:55 - System.IO.IOException: The filename, directory name, or volume label syntax is incorrect. : 'D:\Optimization\Clean Up\BCUninstaller\win-x64\?\C:\Windows\System32\SecurityHealth\10.0.29554.1001-0\SecurityHealthProxyStub.dll'
+   at System.IO.FileSystemInfo.EnsureDataInitialized()
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(DirectoryInfo dir)
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(String installLocation)
+08:51:55 - System.IO.IOException: The filename, directory name, or volume label syntax is incorrect. : 'D:\Optimization\Clean Up\BCUninstaller\win-x64\?\C:\Windows\System32\SecurityHealth\10.0.29554.1001-0\SecurityHealthAgent.dll'
+   at System.IO.FileSystemInfo.EnsureDataInitialized()
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(DirectoryInfo dir)
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(String installLocation)
+08:51:55 - System.IO.IOException: The filename, directory name, or volume label syntax is incorrect. : 'D:\Optimization\Clean Up\BCUninstaller\win-x64\?\C:\Windows\System32\SecurityHealth\10.0.29554.1001-0\SecurityHealthAgent.dll'
+   at System.IO.FileSystemInfo.EnsureDataInitialized()
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(DirectoryInfo dir)
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(String installLocation)
+08:51:55 - System.IO.IOException: The filename, directory name, or volume label syntax is incorrect. : 'D:\Optimization\Clean Up\BCUninstaller\win-x64\?\C:\Windows\System32\SecurityHealth\10.0.29554.1001-0\SecurityHealthAgent.dll'
+   at System.IO.FileSystemInfo.EnsureDataInitialized()
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(DirectoryInfo dir)
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(String installLocation)
+08:51:55 - System.IO.IOException: The filename, directory name, or volume label syntax is incorrect. : 'D:\Optimization\Clean Up\BCUninstaller\win-x64\?\C:\Windows\System32\SecurityHealth\10.0.29554.1001-0\SecurityHealthAgent.dll'
+   at System.IO.FileSystemInfo.EnsureDataInitialized()
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(DirectoryInfo dir)
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(String installLocation)
+08:51:55 - System.IO.IOException: The filename, directory name, or volume label syntax is incorrect. : 'D:\Optimization\Clean Up\BCUninstaller\win-x64\?\C:\Windows\System32\SecurityHealth\10.0.29554.1001-0\SecurityHealthAgent.dll'
+   at System.IO.FileSystemInfo.EnsureDataInitialized()
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(DirectoryInfo dir)
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(String installLocation)
+08:51:55 - System.IO.IOException: The filename, directory name, or volume label syntax is incorrect. : 'D:\Optimization\Clean Up\BCUninstaller\win-x64\?\C:\Windows\System32\SecurityHealth\10.0.29554.1001-0\SecurityHealthAgent.dll'
+   at System.IO.FileSystemInfo.EnsureDataInitialized()
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(DirectoryInfo dir)
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(String installLocation)
+08:51:55 - System.IO.IOException: The filename, directory name, or volume label syntax is incorrect. : 'D:\Optimization\Clean Up\BCUninstaller\win-x64\?\C:\Windows\System32\SecurityHealth\10.0.29554.1001-0\SecurityHealthAgent.dll'
+   at System.IO.FileSystemInfo.EnsureDataInitialized()
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(DirectoryInfo dir)
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(String installLocation)
+08:51:55 - System.IO.IOException: The filename, directory name, or volume label syntax is incorrect. : 'D:\Optimization\Clean Up\BCUninstaller\win-x64\?\C:\Windows\System32\SecurityHealth\10.0.29554.1001-0\SecurityHealthAgent.dll'
+   at System.IO.FileSystemInfo.EnsureDataInitialized()
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(DirectoryInfo dir)
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(String installLocation)
+08:51:55 - System.IO.IOException: The filename, directory name, or volume label syntax is incorrect. : 'D:\Optimization\Clean Up\BCUninstaller\win-x64\?\C:\Windows\System32\SecurityHealth\10.0.29554.1001-0\SecurityHealthAgent.dll'
+   at System.IO.FileSystemInfo.EnsureDataInitialized()
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(DirectoryInfo dir)
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(String installLocation)
+08:51:55 - System.IO.IOException: The filename, directory name, or volume label syntax is incorrect. : 'D:\Optimization\Clean Up\BCUninstaller\win-x64\?\C:\Windows\System32\SecurityHealth\10.0.29554.1001-0\SecurityHealthAgent.dll'
+   at System.IO.FileSystemInfo.EnsureDataInitialized()
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(DirectoryInfo dir)
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(String installLocation)
+08:51:55 - System.IO.IOException: The filename, directory name, or volume label syntax is incorrect. : 'D:\Optimization\Clean Up\BCUninstaller\win-x64\?\C:\Windows\System32\SecurityHealth\10.0.29554.1001-0\SecurityHealthAgent.dll'
+   at System.IO.FileSystemInfo.EnsureDataInitialized()
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(DirectoryInfo dir)
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(String installLocation)
+08:51:55 - System.IO.IOException: The filename, directory name, or volume label syntax is incorrect. : 'D:\Optimization\Clean Up\BCUninstaller\win-x64\?\C:\Windows\System32\SecurityHealth\10.0.29554.1001-0\SecurityHealthAgent.dll'
+   at System.IO.FileSystemInfo.EnsureDataInitialized()
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(DirectoryInfo dir)
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(String installLocation)
+08:51:55 - System.IO.IOException: The filename, directory name, or volume label syntax is incorrect. : 'D:\Optimization\Clean Up\BCUninstaller\win-x64\?\C:\Windows\System32\SecurityHealth\10.0.29554.1001-0\SecurityHealthSSO.dll'
+   at System.IO.FileSystemInfo.EnsureDataInitialized()
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(DirectoryInfo dir)
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(String installLocation)
+08:51:55 - System.IO.IOException: The filename, directory name, or volume label syntax is incorrect. : 'D:\Optimization\Clean Up\BCUninstaller\win-x64\?\C:\Windows\System32\SecurityHealth\10.0.29554.1001-0\SecurityHealthAgent.dll'
+   at System.IO.FileSystemInfo.EnsureDataInitialized()
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(DirectoryInfo dir)
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(String installLocation)
+08:51:57 - Attempt failed, skipping. Error: System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+ ---> System.Runtime.InteropServices.COMException (0x80270222): Cannot access Homegroup. Homegroup may not be set up or may have encountered an error. (0x80270222)
+   at WinRT.ExceptionHelpers.<ThrowExceptionForHR>g__Throw|20_0(Int32 hr)
+   at WinRT.ExceptionHelpers.ThrowExceptionForHR(Int32 hr)
+   at ABI.Windows.Storage.IKnownFoldersStaticsMethods.get_HomeGroup(IObjectReference _obj)
+   at Windows.Storage.KnownFolders.get_HomeGroup()
+   --- End of inner exception stack trace ---
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Span`1& arguments, Signature sig, Boolean constructor, Boolean wrapExceptions)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.PropertyInfo.GetValue(Object obj)
+   at UninstallTools.Junk.JunkManager.<>c.<GetProhibitedLocations>b__4_1(PropertyInfo p)
+   at Klocman.Extensions.EnumerableExtensions.Attempt[TIn,TOut](IEnumerable`1 baseEnumerable, Func`2 action)+MoveNext()
+08:52:15 - Exception while removing junk: System.Management.ManagementException: Not found 
+   at System.Management.ManagementException.ThrowWithExtendedInfo(ManagementStatus errorCode)
+   at System.Management.ManagementObject.InvokeMethod(String methodName, ManagementBaseObject inParameters, InvokeMethodOptions options)
+   at UninstallTools.Startup.Service.ServiceEntryFactory.DeleteService(String serviceName)
+   at UninstallTools.Startup.Service.ServiceEntry.Delete()
+   at UninstallTools.Junk.Containers.StartupJunkNode.Delete()
+   at BulkCrapUninstaller.Functions.AppUninstaller.<>c__DisplayClass20_0.<ShowJunkWindow>b__1(LoadingDialogInterface controller)
+08:52:15 - Exception while removing junk: System.Management.ManagementException: Not found 
+   at System.Management.ManagementException.ThrowWithExtendedInfo(ManagementStatus errorCode)
+   at System.Management.ManagementObject.InvokeMethod(String methodName, ManagementBaseObject inParameters, InvokeMethodOptions options)
+   at UninstallTools.Startup.Service.ServiceEntryFactory.DeleteService(String serviceName)
+   at UninstallTools.Startup.Service.ServiceEntry.Delete()
+   at UninstallTools.Junk.Containers.StartupJunkNode.Delete()
+   at BulkCrapUninstaller.Functions.AppUninstaller.<>c__DisplayClass20_0.<ShowJunkWindow>b__1(LoadingDialogInterface controller)
+08:52:15 - Exception while removing junk: System.Management.ManagementException: Not found 
+   at System.Management.ManagementException.ThrowWithExtendedInfo(ManagementStatus errorCode)
+   at System.Management.ManagementObject.InvokeMethod(String methodName, ManagementBaseObject inParameters, InvokeMethodOptions options)
+   at UninstallTools.Startup.Service.ServiceEntryFactory.DeleteService(String serviceName)
+   at UninstallTools.Startup.Service.ServiceEntry.Delete()
+   at UninstallTools.Junk.Containers.StartupJunkNode.Delete()
+   at BulkCrapUninstaller.Functions.AppUninstaller.<>c__DisplayClass20_0.<ShowJunkWindow>b__1(LoadingDialogInterface controller)
+08:52:15 - Exception while removing junk: System.Management.ManagementException: Not found 
+   at System.Management.ManagementException.ThrowWithExtendedInfo(ManagementStatus errorCode)
+   at System.Management.ManagementObject.InvokeMethod(String methodName, ManagementBaseObject inParameters, InvokeMethodOptions options)
+   at UninstallTools.Startup.Service.ServiceEntryFactory.DeleteService(String serviceName)
+   at UninstallTools.Startup.Service.ServiceEntry.Delete()
+   at UninstallTools.Junk.Containers.StartupJunkNode.Delete()
+   at BulkCrapUninstaller.Functions.AppUninstaller.<>c__DisplayClass20_0.<ShowJunkWindow>b__1(LoadingDialogInterface controller)
+08:52:15 - Exception while removing junk: System.Management.ManagementException: Not found 
+   at System.Management.ManagementException.ThrowWithExtendedInfo(ManagementStatus errorCode)
+   at System.Management.ManagementObject.InvokeMethod(String methodName, ManagementBaseObject inParameters, InvokeMethodOptions options)
+   at UninstallTools.Startup.Service.ServiceEntryFactory.DeleteService(String serviceName)
+   at UninstallTools.Startup.Service.ServiceEntry.Delete()
+   at UninstallTools.Junk.Containers.StartupJunkNode.Delete()
+   at BulkCrapUninstaller.Functions.AppUninstaller.<>c__DisplayClass20_0.<ShowJunkWindow>b__1(LoadingDialogInterface controller)
+08:52:15 - Exception while removing junk: System.Management.ManagementException: Not found 
+   at System.Management.ManagementException.ThrowWithExtendedInfo(ManagementStatus errorCode)
+   at System.Management.ManagementObject.InvokeMethod(String methodName, ManagementBaseObject inParameters, InvokeMethodOptions options)
+   at UninstallTools.Startup.Service.ServiceEntryFactory.DeleteService(String serviceName)
+   at UninstallTools.Startup.Service.ServiceEntry.Delete()
+   at UninstallTools.Junk.Containers.StartupJunkNode.Delete()
+   at BulkCrapUninstaller.Functions.AppUninstaller.<>c__DisplayClass20_0.<ShowJunkWindow>b__1(LoadingDialogInterface controller)
+08:52:15 - Exception while removing junk: System.IO.FileNotFoundException: Could not find file 'C:\WINDOWS\Prefetch\UPDATER.EXE-159015E6.pf'.
+File name: 'C:\WINDOWS\Prefetch\UPDATER.EXE-159015E6.pf'
+   at Microsoft.VisualBasic.FileIO.FileSystem.DeleteFileInternal(String file, UIOptionInternal showUI, RecycleOption recycle, UICancelOption onUserCancel)
+   at Microsoft.VisualBasic.FileIO.FileSystem.DeleteFile(String file, UIOption showUI, RecycleOption recycle, UICancelOption onUserCancel)
+   at UninstallTools.Junk.Containers.FileSystemJunk.Delete()
+   at BulkCrapUninstaller.Functions.AppUninstaller.<>c__DisplayClass20_0.<ShowJunkWindow>b__1(LoadingDialogInterface controller)
+08:52:15 - Exception while removing junk: System.IO.FileNotFoundException: Could not find file 'C:\WINDOWS\Prefetch\UPDATER.EXE-44152F44.pf'.
+File name: 'C:\WINDOWS\Prefetch\UPDATER.EXE-44152F44.pf'
+   at Microsoft.VisualBasic.FileIO.FileSystem.DeleteFileInternal(String file, UIOptionInternal showUI, RecycleOption recycle, UICancelOption onUserCancel)
+   at Microsoft.VisualBasic.FileIO.FileSystem.DeleteFile(String file, UIOption showUI, RecycleOption recycle, UICancelOption onUserCancel)
+   at UninstallTools.Junk.Containers.FileSystemJunk.Delete()
+   at BulkCrapUninstaller.Functions.AppUninstaller.<>c__DisplayClass20_0.<ShowJunkWindow>b__1(LoadingDialogInterface controller)
+08:52:15 - Exception while removing junk: System.IO.FileNotFoundException: Could not find file 'C:\WINDOWS\Prefetch\UPDATER.EXE-49A05520.pf'.
+File name: 'C:\WINDOWS\Prefetch\UPDATER.EXE-49A05520.pf'
+   at Microsoft.VisualBasic.FileIO.FileSystem.DeleteFileInternal(String file, UIOptionInternal showUI, RecycleOption recycle, UICancelOption onUserCancel)
+   at Microsoft.VisualBasic.FileIO.FileSystem.DeleteFile(String file, UIOption showUI, RecycleOption recycle, UICancelOption onUserCancel)
+   at UninstallTools.Junk.Containers.FileSystemJunk.Delete()
+   at BulkCrapUninstaller.Functions.AppUninstaller.<>c__DisplayClass20_0.<ShowJunkWindow>b__1(LoadingDialogInterface controller)
+08:52:15 - Exception while removing junk: System.IO.FileNotFoundException: Could not find file 'C:\WINDOWS\Prefetch\UPDATER.EXE-9C05D120.pf'.
+File name: 'C:\WINDOWS\Prefetch\UPDATER.EXE-9C05D120.pf'
+   at Microsoft.VisualBasic.FileIO.FileSystem.DeleteFileInternal(String file, UIOptionInternal showUI, RecycleOption recycle, UICancelOption onUserCancel)
+   at Microsoft.VisualBasic.FileIO.FileSystem.DeleteFile(String file, UIOption showUI, RecycleOption recycle, UICancelOption onUserCancel)
+   at UninstallTools.Junk.Containers.FileSystemJunk.Delete()
+   at BulkCrapUninstaller.Functions.AppUninstaller.<>c__DisplayClass20_0.<ShowJunkWindow>b__1(LoadingDialogInterface controller)
+08:52:15 - Exception while removing junk: System.IO.FileNotFoundException: Could not find file 'C:\WINDOWS\Prefetch\UPDATER.EXE-DCC94EB4.pf'.
+File name: 'C:\WINDOWS\Prefetch\UPDATER.EXE-DCC94EB4.pf'
+   at Microsoft.VisualBasic.FileIO.FileSystem.DeleteFileInternal(String file, UIOptionInternal showUI, RecycleOption recycle, UICancelOption onUserCancel)
+   at Microsoft.VisualBasic.FileIO.FileSystem.DeleteFile(String file, UIOption showUI, RecycleOption recycle, UICancelOption onUserCancel)
+   at UninstallTools.Junk.Containers.FileSystemJunk.Delete()
+   at BulkCrapUninstaller.Functions.AppUninstaller.<>c__DisplayClass20_0.<ShowJunkWindow>b__1(LoadingDialogInterface controller)
+08:52:15 - Exception while removing junk: System.IO.FileNotFoundException: Could not find file 'C:\WINDOWS\Prefetch\UPDATER.EXE-159015E6.pf'.
+File name: 'C:\WINDOWS\Prefetch\UPDATER.EXE-159015E6.pf'
+   at Microsoft.VisualBasic.FileIO.FileSystem.DeleteFileInternal(String file, UIOptionInternal showUI, RecycleOption recycle, UICancelOption onUserCancel)
+   at Microsoft.VisualBasic.FileIO.FileSystem.DeleteFile(String file, UIOption showUI, RecycleOption recycle, UICancelOption onUserCancel)
+   at UninstallTools.Junk.Containers.FileSystemJunk.Delete()
+   at BulkCrapUninstaller.Functions.AppUninstaller.<>c__DisplayClass20_0.<ShowJunkWindow>b__1(LoadingDialogInterface controller)
+08:52:15 - Exception while removing junk: System.IO.FileNotFoundException: Could not find file 'C:\WINDOWS\Prefetch\UPDATER.EXE-44152F44.pf'.
+File name: 'C:\WINDOWS\Prefetch\UPDATER.EXE-44152F44.pf'
+   at Microsoft.VisualBasic.FileIO.FileSystem.DeleteFileInternal(String file, UIOptionInternal showUI, RecycleOption recycle, UICancelOption onUserCancel)
+   at Microsoft.VisualBasic.FileIO.FileSystem.DeleteFile(String file, UIOption showUI, RecycleOption recycle, UICancelOption onUserCancel)
+   at UninstallTools.Junk.Containers.FileSystemJunk.Delete()
+   at BulkCrapUninstaller.Functions.AppUninstaller.<>c__DisplayClass20_0.<ShowJunkWindow>b__1(LoadingDialogInterface controller)
+08:52:15 - Exception while removing junk: System.IO.FileNotFoundException: Could not find file 'C:\WINDOWS\Prefetch\UPDATER.EXE-49A05520.pf'.
+File name: 'C:\WINDOWS\Prefetch\UPDATER.EXE-49A05520.pf'
+   at Microsoft.VisualBasic.FileIO.FileSystem.DeleteFileInternal(String file, UIOptionInternal showUI, RecycleOption recycle, UICancelOption onUserCancel)
+   at Microsoft.VisualBasic.FileIO.FileSystem.DeleteFile(String file, UIOption showUI, RecycleOption recycle, UICancelOption onUserCancel)
+   at UninstallTools.Junk.Containers.FileSystemJunk.Delete()
+   at BulkCrapUninstaller.Functions.AppUninstaller.<>c__DisplayClass20_0.<ShowJunkWindow>b__1(LoadingDialogInterface controller)
+08:52:15 - Exception while removing junk: System.IO.FileNotFoundException: Could not find file 'C:\WINDOWS\Prefetch\UPDATER.EXE-9C05D120.pf'.
+File name: 'C:\WINDOWS\Prefetch\UPDATER.EXE-9C05D120.pf'
+   at Microsoft.VisualBasic.FileIO.FileSystem.DeleteFileInternal(String file, UIOptionInternal showUI, RecycleOption recycle, UICancelOption onUserCancel)
+   at Microsoft.VisualBasic.FileIO.FileSystem.DeleteFile(String file, UIOption showUI, RecycleOption recycle, UICancelOption onUserCancel)
+   at UninstallTools.Junk.Containers.FileSystemJunk.Delete()
+   at BulkCrapUninstaller.Functions.AppUninstaller.<>c__DisplayClass20_0.<ShowJunkWindow>b__1(LoadingDialogInterface controller)
+08:52:15 - Exception while removing junk: System.IO.FileNotFoundException: Could not find file 'C:\WINDOWS\Prefetch\UPDATER.EXE-DCC94EB4.pf'.
+File name: 'C:\WINDOWS\Prefetch\UPDATER.EXE-DCC94EB4.pf'
+   at Microsoft.VisualBasic.FileIO.FileSystem.DeleteFileInternal(String file, UIOptionInternal showUI, RecycleOption recycle, UICancelOption onUserCancel)
+   at Microsoft.VisualBasic.FileIO.FileSystem.DeleteFile(String file, UIOption showUI, RecycleOption recycle, UICancelOption onUserCancel)
+   at UninstallTools.Junk.Containers.FileSystemJunk.Delete()
+   at BulkCrapUninstaller.Functions.AppUninstaller.<>c__DisplayClass20_0.<ShowJunkWindow>b__1(LoadingDialogInterface controller)
+08:52:18 - [Performance] Running command c:\programdata\chocolatey\bin\choco.exe  took 2006ms
+08:52:18 - [Performance] Factory RegistryFactory took 2122ms to finish
+08:52:18 - Cache hits: 443/443
+08:52:18 - [Performance] Factory DirectoryFactory took 206ms to finish
+08:52:20 - [Performance] Running command c:\programdata\chocolatey\bin\choco.exe list -lo -nocolor --detail took 2005ms
+08:52:20 - [Performance] Factory ChocolateyFactory took 4018ms to finish
+08:52:20 - [Performance] Running command D:\Optimization\Clean Up\BCUninstaller\win-x64\OculusHelper.exe /query took 40ms
+08:52:20 - [Performance] Factory OculusFactory took 43ms to finish
+08:52:20 - [Performance] Factory PredefinedFactory took 0ms to finish
+08:52:20 - [Performance] Factory ScoopFactory took 0ms to finish
+08:52:20 - [Performance] Running command D:\Optimization\Clean Up\BCUninstaller\win-x64\ScriptHelper.exe list took 70ms
+08:52:20 - [Performance] Factory ScriptFactory took 72ms to finish
+08:52:20 - [Performance] Running command D:\Optimization\Clean Up\BCUninstaller\win-x64\SteamHelper.exe steam took 42ms
+08:52:20 - [Performance] Running command D:\Optimization\Clean Up\BCUninstaller\win-x64\SteamHelper.exe l /i took 84ms
+08:52:20 - [Performance] Factory SteamFactory took 134ms to finish
+08:52:21 - [Performance] Running command D:\Optimization\Clean Up\BCUninstaller\win-x64\StoreAppHelper.exe /query took 653ms
+08:52:21 - [Performance] Factory StoreAppFactory took 719ms to finish
+08:52:22 - Cache hits: 543/543
+--------------------------------------------------
+18:33:58 - Application startup
+18:34:02 - [Performance] Factory RegistryFactory took 2226ms to finish
+18:34:02 - FastSizeGenerator: Everything search engine is not available - es.exe failed to connect to Everything
+18:34:02 - Cache hits: 443/444
+18:34:02 - [Performance] Running command c:\programdata\chocolatey\bin\choco.exe  took 2404ms
+18:34:02 - [Performance] Factory DirectoryFactory took 327ms to finish
+18:34:04 - [Performance] Running command c:\programdata\chocolatey\bin\choco.exe list -lo -nocolor --detail took 2105ms
+18:34:04 - [Performance] Factory ChocolateyFactory took 4525ms to finish
+18:34:04 - [Performance] Running command D:\Optimization\Clean Up\BCUninstaller\win-x64\OculusHelper.exe /query took 49ms
+18:34:04 - [Performance] Factory OculusFactory took 56ms to finish
+18:34:04 - [Performance] Factory PredefinedFactory took 0ms to finish
+18:34:04 - [Performance] Factory ScoopFactory took 2ms to finish
+18:34:04 - [Performance] Running command D:\Optimization\Clean Up\BCUninstaller\win-x64\ScriptHelper.exe list took 79ms
+18:34:04 - [Performance] Factory ScriptFactory took 86ms to finish
+18:34:04 - [Performance] Running command D:\Optimization\Clean Up\BCUninstaller\win-x64\SteamHelper.exe steam took 46ms
+18:34:04 - [Performance] Running command D:\Optimization\Clean Up\BCUninstaller\win-x64\SteamHelper.exe l /i took 102ms
+18:34:04 - [Performance] Factory SteamFactory took 160ms to finish
+18:34:06 - [Performance] Running command D:\Optimization\Clean Up\BCUninstaller\win-x64\StoreAppHelper.exe /query took 1110ms
+18:34:06 - [Performance] Factory StoreAppFactory took 1217ms to finish
+18:34:07 - Cache hits: 543/544
+18:34:35 - System.IO.IOException: The filename, directory name, or volume label syntax is incorrect. : 'D:\Optimization\Clean Up\BCUninstaller\win-x64\?\C:\Windows\System32\SecurityHealth\10.0.29554.1001-0\SecurityHealthAgent.dll'
+   at System.IO.FileSystemInfo.EnsureDataInitialized()
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(DirectoryInfo dir)
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(String installLocation)
+18:34:35 - System.IO.IOException: The filename, directory name, or volume label syntax is incorrect. : 'D:\Optimization\Clean Up\BCUninstaller\win-x64\?\C:\Windows\System32\SecurityHealth\10.0.29554.1001-0\SecurityHealthAgent.dll'
+   at System.IO.FileSystemInfo.EnsureDataInitialized()
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(DirectoryInfo dir)
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(String installLocation)
+18:34:35 - System.IO.IOException: The filename, directory name, or volume label syntax is incorrect. : 'D:\Optimization\Clean Up\BCUninstaller\win-x64\?\C:\Windows\System32\SecurityHealth\10.0.29554.1001-0\SecurityHealthAgent.dll'
+   at System.IO.FileSystemInfo.EnsureDataInitialized()
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(DirectoryInfo dir)
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(String installLocation)
+18:34:35 - System.IO.IOException: The filename, directory name, or volume label syntax is incorrect. : 'D:\Optimization\Clean Up\BCUninstaller\win-x64\?\C:\Windows\System32\SecurityHealth\10.0.29554.1001-0\SecurityHealthAgent.dll'
+   at System.IO.FileSystemInfo.EnsureDataInitialized()
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(DirectoryInfo dir)
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(String installLocation)
+18:34:35 - System.IO.IOException: The filename, directory name, or volume label syntax is incorrect. : 'D:\Optimization\Clean Up\BCUninstaller\win-x64\?\C:\Windows\System32\SecurityHealth\10.0.29554.1001-0\SecurityHealthAgent.dll'
+   at System.IO.FileSystemInfo.EnsureDataInitialized()
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(DirectoryInfo dir)
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(String installLocation)
+18:34:35 - System.IO.IOException: The filename, directory name, or volume label syntax is incorrect. : 'D:\Optimization\Clean Up\BCUninstaller\win-x64\?\C:\Windows\System32\SecurityHealth\10.0.29554.1001-0\SecurityHealthProxyStub.dll'
+   at System.IO.FileSystemInfo.EnsureDataInitialized()
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(DirectoryInfo dir)
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(String installLocation)
+18:34:35 - System.IO.IOException: The filename, directory name, or volume label syntax is incorrect. : 'D:\Optimization\Clean Up\BCUninstaller\win-x64\?\C:\Windows\System32\SecurityHealth\10.0.29554.1001-0\SecurityHealthAgent.dll'
+   at System.IO.FileSystemInfo.EnsureDataInitialized()
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(DirectoryInfo dir)
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(String installLocation)
+18:34:35 - System.IO.IOException: The filename, directory name, or volume label syntax is incorrect. : 'D:\Optimization\Clean Up\BCUninstaller\win-x64\?\C:\Windows\System32\SecurityHealth\10.0.29554.1001-0\SecurityHealthAgent.dll'
+   at System.IO.FileSystemInfo.EnsureDataInitialized()
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(DirectoryInfo dir)
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(String installLocation)
+18:34:35 - System.IO.IOException: The filename, directory name, or volume label syntax is incorrect. : 'D:\Optimization\Clean Up\BCUninstaller\win-x64\?\C:\Windows\System32\SecurityHealth\10.0.29554.1001-0\SecurityHealthAgent.dll'
+   at System.IO.FileSystemInfo.EnsureDataInitialized()
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(DirectoryInfo dir)
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(String installLocation)
+18:34:35 - System.IO.IOException: The filename, directory name, or volume label syntax is incorrect. : 'D:\Optimization\Clean Up\BCUninstaller\win-x64\?\C:\Windows\System32\SecurityHealth\10.0.29554.1001-0\SecurityHealthAgent.dll'
+   at System.IO.FileSystemInfo.EnsureDataInitialized()
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(DirectoryInfo dir)
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(String installLocation)
+18:34:35 - System.IO.IOException: The filename, directory name, or volume label syntax is incorrect. : 'D:\Optimization\Clean Up\BCUninstaller\win-x64\?\C:\Windows\System32\SecurityHealth\10.0.29554.1001-0\SecurityHealthAgent.dll'
+   at System.IO.FileSystemInfo.EnsureDataInitialized()
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(DirectoryInfo dir)
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(String installLocation)
+18:34:35 - System.IO.IOException: The filename, directory name, or volume label syntax is incorrect. : 'D:\Optimization\Clean Up\BCUninstaller\win-x64\?\C:\Windows\System32\SecurityHealth\10.0.29554.1001-0\SecurityHealthAgent.dll'
+   at System.IO.FileSystemInfo.EnsureDataInitialized()
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(DirectoryInfo dir)
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(String installLocation)
+18:34:35 - System.IO.IOException: The filename, directory name, or volume label syntax is incorrect. : 'D:\Optimization\Clean Up\BCUninstaller\win-x64\?\C:\Windows\System32\SecurityHealth\10.0.29554.1001-0\SecurityHealthAgent.dll'
+   at System.IO.FileSystemInfo.EnsureDataInitialized()
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(DirectoryInfo dir)
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(String installLocation)
+18:34:35 - System.IO.IOException: The filename, directory name, or volume label syntax is incorrect. : 'D:\Optimization\Clean Up\BCUninstaller\win-x64\?\C:\Windows\System32\SecurityHealth\10.0.29554.1001-0\SecurityHealthAgent.dll'
+   at System.IO.FileSystemInfo.EnsureDataInitialized()
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(DirectoryInfo dir)
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(String installLocation)
+18:34:35 - System.IO.IOException: The filename, directory name, or volume label syntax is incorrect. : 'D:\Optimization\Clean Up\BCUninstaller\win-x64\?\C:\Windows\System32\SecurityHealth\10.0.29554.1001-0\SecurityHealthAgent.dll'
+   at System.IO.FileSystemInfo.EnsureDataInitialized()
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(DirectoryInfo dir)
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(String installLocation)
+18:34:35 - System.IO.IOException: The filename, directory name, or volume label syntax is incorrect. : 'D:\Optimization\Clean Up\BCUninstaller\win-x64\?\C:\Windows\System32\SecurityHealth\10.0.29554.1001-0\SecurityHealthAgent.dll'
+   at System.IO.FileSystemInfo.EnsureDataInitialized()
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(DirectoryInfo dir)
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(String installLocation)
+18:34:35 - System.IO.IOException: The filename, directory name, or volume label syntax is incorrect. : 'D:\Optimization\Clean Up\BCUninstaller\win-x64\?\C:\Windows\System32\SecurityHealth\10.0.29554.1001-0\SecurityHealthAgent.dll'
+   at System.IO.FileSystemInfo.EnsureDataInitialized()
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(DirectoryInfo dir)
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(String installLocation)
+18:34:35 - System.IO.IOException: The filename, directory name, or volume label syntax is incorrect. : 'D:\Optimization\Clean Up\BCUninstaller\win-x64\?\C:\Windows\System32\SecurityHealth\10.0.29554.1001-0\SecurityHealthAgent.dll'
+   at System.IO.FileSystemInfo.EnsureDataInitialized()
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(DirectoryInfo dir)
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(String installLocation)
+18:34:35 - System.IO.IOException: The filename, directory name, or volume label syntax is incorrect. : 'D:\Optimization\Clean Up\BCUninstaller\win-x64\?\C:\Windows\System32\SecurityHealth\10.0.29554.1001-0\SecurityHealthSSO.dll'
+   at System.IO.FileSystemInfo.EnsureDataInitialized()
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(DirectoryInfo dir)
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(String installLocation)
+18:34:35 - System.IO.IOException: The filename, directory name, or volume label syntax is incorrect. : 'D:\Optimization\Clean Up\BCUninstaller\win-x64\?\C:\Windows\System32\SecurityHealth\10.0.29554.1001-0\SecurityHealthAgent.dll'
+   at System.IO.FileSystemInfo.EnsureDataInitialized()
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(DirectoryInfo dir)
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(String installLocation)
+18:34:38 - Attempt failed, skipping. Error: System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+ ---> System.Runtime.InteropServices.COMException (0x80270222): Cannot access Homegroup. Homegroup may not be set up or may have encountered an error. (0x80270222)
+   at WinRT.ExceptionHelpers.<ThrowExceptionForHR>g__Throw|20_0(Int32 hr)
+   at WinRT.ExceptionHelpers.ThrowExceptionForHR(Int32 hr)
+   at ABI.Windows.Storage.IKnownFoldersStaticsMethods.get_HomeGroup(IObjectReference _obj)
+   at Windows.Storage.KnownFolders.get_HomeGroup()
+   --- End of inner exception stack trace ---
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Span`1& arguments, Signature sig, Boolean constructor, Boolean wrapExceptions)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.PropertyInfo.GetValue(Object obj)
+   at UninstallTools.Junk.JunkManager.<>c.<GetProhibitedLocations>b__4_1(PropertyInfo p)
+   at Klocman.Extensions.EnumerableExtensions.Attempt[TIn,TOut](IEnumerable`1 baseEnumerable, Func`2 action)+MoveNext()
+18:34:47 - [Performance] Factory RegistryFactory took 2255ms to finish
+18:34:47 - Cache hits: 443/443
+18:34:48 - [Performance] Factory DirectoryFactory took 223ms to finish
+18:34:48 - [Performance] Running command c:\programdata\chocolatey\bin\choco.exe  took 2283ms
+18:34:50 - [Performance] Running command c:\programdata\chocolatey\bin\choco.exe list -lo -nocolor --detail took 2144ms
+18:34:50 - [Performance] Factory ChocolateyFactory took 4435ms to finish
+18:34:50 - [Performance] Running command D:\Optimization\Clean Up\BCUninstaller\win-x64\OculusHelper.exe /query took 47ms
+18:34:50 - [Performance] Factory OculusFactory took 50ms to finish
+18:34:50 - [Performance] Factory PredefinedFactory took 0ms to finish
+18:34:50 - [Performance] Factory ScoopFactory took 0ms to finish
+18:34:50 - [Performance] Running command D:\Optimization\Clean Up\BCUninstaller\win-x64\ScriptHelper.exe list took 74ms
+18:34:50 - [Performance] Factory ScriptFactory took 77ms to finish
+18:34:50 - [Performance] Running command D:\Optimization\Clean Up\BCUninstaller\win-x64\SteamHelper.exe steam took 47ms
+18:34:50 - [Performance] Running command D:\Optimization\Clean Up\BCUninstaller\win-x64\SteamHelper.exe l /i took 87ms
+18:34:50 - [Performance] Factory SteamFactory took 142ms to finish
+18:34:51 - [Performance] Running command D:\Optimization\Clean Up\BCUninstaller\win-x64\StoreAppHelper.exe /query took 723ms
+18:34:51 - [Performance] Factory StoreAppFactory took 794ms to finish
+18:34:52 - Cache hits: 543/543
+--------------------------------------------------
+18:54:29 - Application startup
+18:54:33 - [Performance] Running command c:\programdata\chocolatey\bin\choco.exe  took 2062ms
+18:54:33 - [Performance] Factory RegistryFactory took 2264ms to finish
+18:54:33 - FastSizeGenerator: Everything search engine is not available - es.exe failed to connect to Everything
+18:54:33 - Cache hits: 443/443
+18:54:33 - [Performance] Factory DirectoryFactory took 229ms to finish
+18:54:35 - [Performance] Running command c:\programdata\chocolatey\bin\choco.exe list -lo -nocolor --detail took 2115ms
+18:54:35 - [Performance] Factory ChocolateyFactory took 4190ms to finish
+18:54:35 - [Performance] Running command D:\Optimization\Clean Up\BCUninstaller\win-x64\OculusHelper.exe /query took 40ms
+18:54:35 - [Performance] Factory OculusFactory took 45ms to finish
+18:54:35 - [Performance] Factory PredefinedFactory took 0ms to finish
+18:54:35 - [Performance] Factory ScoopFactory took 2ms to finish
+18:54:35 - [Performance] Running command D:\Optimization\Clean Up\BCUninstaller\win-x64\ScriptHelper.exe list took 70ms
+18:54:35 - [Performance] Factory ScriptFactory took 75ms to finish
+18:54:35 - [Performance] Running command D:\Optimization\Clean Up\BCUninstaller\win-x64\SteamHelper.exe steam took 42ms
+18:54:35 - [Performance] Running command D:\Optimization\Clean Up\BCUninstaller\win-x64\SteamHelper.exe l /i took 85ms
+18:54:35 - [Performance] Factory SteamFactory took 137ms to finish
+18:54:36 - [Performance] Running command D:\Optimization\Clean Up\BCUninstaller\win-x64\StoreAppHelper.exe /query took 763ms
+18:54:36 - [Performance] Factory StoreAppFactory took 847ms to finish
+18:54:37 - Cache hits: 543/543
+18:56:07 - System.IO.IOException: The filename, directory name, or volume label syntax is incorrect. : 'D:\Optimization\Clean Up\BCUninstaller\win-x64\?\C:\Windows\System32\SecurityHealth\10.0.29554.1001-0\SecurityHealthAgent.dll'
+   at System.IO.FileSystemInfo.EnsureDataInitialized()
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(DirectoryInfo dir)
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(String installLocation)
+18:56:07 - System.IO.IOException: The filename, directory name, or volume label syntax is incorrect. : 'D:\Optimization\Clean Up\BCUninstaller\win-x64\?\C:\Windows\System32\SecurityHealth\10.0.29554.1001-0\SecurityHealthAgent.dll'
+   at System.IO.FileSystemInfo.EnsureDataInitialized()
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(DirectoryInfo dir)
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(String installLocation)
+18:56:07 - System.IO.IOException: The filename, directory name, or volume label syntax is incorrect. : 'D:\Optimization\Clean Up\BCUninstaller\win-x64\?\C:\Windows\System32\SecurityHealth\10.0.29554.1001-0\SecurityHealthAgent.dll'
+   at System.IO.FileSystemInfo.EnsureDataInitialized()
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(DirectoryInfo dir)
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(String installLocation)
+18:56:07 - System.IO.IOException: The filename, directory name, or volume label syntax is incorrect. : 'D:\Optimization\Clean Up\BCUninstaller\win-x64\?\C:\Windows\System32\SecurityHealth\10.0.29554.1001-0\SecurityHealthAgent.dll'
+   at System.IO.FileSystemInfo.EnsureDataInitialized()
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(DirectoryInfo dir)
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(String installLocation)
+18:56:07 - System.IO.IOException: The filename, directory name, or volume label syntax is incorrect. : 'D:\Optimization\Clean Up\BCUninstaller\win-x64\?\C:\Windows\System32\SecurityHealth\10.0.29554.1001-0\SecurityHealthAgent.dll'
+   at System.IO.FileSystemInfo.EnsureDataInitialized()
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(DirectoryInfo dir)
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(String installLocation)
+18:56:07 - System.IO.IOException: The filename, directory name, or volume label syntax is incorrect. : 'D:\Optimization\Clean Up\BCUninstaller\win-x64\?\C:\Windows\System32\SecurityHealth\10.0.29554.1001-0\SecurityHealthProxyStub.dll'
+   at System.IO.FileSystemInfo.EnsureDataInitialized()
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(DirectoryInfo dir)
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(String installLocation)
+18:56:07 - System.IO.IOException: The filename, directory name, or volume label syntax is incorrect. : 'D:\Optimization\Clean Up\BCUninstaller\win-x64\?\C:\Windows\System32\SecurityHealth\10.0.29554.1001-0\SecurityHealthAgent.dll'
+   at System.IO.FileSystemInfo.EnsureDataInitialized()
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(DirectoryInfo dir)
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(String installLocation)
+18:56:07 - System.IO.IOException: The filename, directory name, or volume label syntax is incorrect. : 'D:\Optimization\Clean Up\BCUninstaller\win-x64\?\C:\Windows\System32\SecurityHealth\10.0.29554.1001-0\SecurityHealthAgent.dll'
+   at System.IO.FileSystemInfo.EnsureDataInitialized()
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(DirectoryInfo dir)
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(String installLocation)
+18:56:07 - System.IO.IOException: The filename, directory name, or volume label syntax is incorrect. : 'D:\Optimization\Clean Up\BCUninstaller\win-x64\?\C:\Windows\System32\SecurityHealth\10.0.29554.1001-0\SecurityHealthAgent.dll'
+   at System.IO.FileSystemInfo.EnsureDataInitialized()
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(DirectoryInfo dir)
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(String installLocation)
+18:56:07 - System.IO.IOException: The filename, directory name, or volume label syntax is incorrect. : 'D:\Optimization\Clean Up\BCUninstaller\win-x64\?\C:\Windows\System32\SecurityHealth\10.0.29554.1001-0\SecurityHealthAgent.dll'
+   at System.IO.FileSystemInfo.EnsureDataInitialized()
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(DirectoryInfo dir)
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(String installLocation)
+18:56:07 - System.IO.IOException: The filename, directory name, or volume label syntax is incorrect. : 'D:\Optimization\Clean Up\BCUninstaller\win-x64\?\C:\Windows\System32\SecurityHealth\10.0.29554.1001-0\SecurityHealthAgent.dll'
+   at System.IO.FileSystemInfo.EnsureDataInitialized()
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(DirectoryInfo dir)
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(String installLocation)
+18:56:07 - System.IO.IOException: The filename, directory name, or volume label syntax is incorrect. : 'D:\Optimization\Clean Up\BCUninstaller\win-x64\?\C:\Windows\System32\SecurityHealth\10.0.29554.1001-0\SecurityHealthAgent.dll'
+   at System.IO.FileSystemInfo.EnsureDataInitialized()
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(DirectoryInfo dir)
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(String installLocation)
+18:56:07 - System.IO.IOException: The filename, directory name, or volume label syntax is incorrect. : 'D:\Optimization\Clean Up\BCUninstaller\win-x64\?\C:\Windows\System32\SecurityHealth\10.0.29554.1001-0\SecurityHealthAgent.dll'
+   at System.IO.FileSystemInfo.EnsureDataInitialized()
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(DirectoryInfo dir)
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(String installLocation)
+18:56:07 - System.IO.IOException: The filename, directory name, or volume label syntax is incorrect. : 'D:\Optimization\Clean Up\BCUninstaller\win-x64\?\C:\Windows\System32\SecurityHealth\10.0.29554.1001-0\SecurityHealthAgent.dll'
+   at System.IO.FileSystemInfo.EnsureDataInitialized()
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(DirectoryInfo dir)
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(String installLocation)
+18:56:07 - System.IO.IOException: The filename, directory name, or volume label syntax is incorrect. : 'D:\Optimization\Clean Up\BCUninstaller\win-x64\?\C:\Windows\System32\SecurityHealth\10.0.29554.1001-0\SecurityHealthAgent.dll'
+   at System.IO.FileSystemInfo.EnsureDataInitialized()
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(DirectoryInfo dir)
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(String installLocation)
+18:56:07 - System.IO.IOException: The filename, directory name, or volume label syntax is incorrect. : 'D:\Optimization\Clean Up\BCUninstaller\win-x64\?\C:\Windows\System32\SecurityHealth\10.0.29554.1001-0\SecurityHealthAgent.dll'
+   at System.IO.FileSystemInfo.EnsureDataInitialized()
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(DirectoryInfo dir)
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(String installLocation)
+18:56:07 - System.IO.IOException: The filename, directory name, or volume label syntax is incorrect. : 'D:\Optimization\Clean Up\BCUninstaller\win-x64\?\C:\Windows\System32\SecurityHealth\10.0.29554.1001-0\SecurityHealthAgent.dll'
+   at System.IO.FileSystemInfo.EnsureDataInitialized()
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(DirectoryInfo dir)
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(String installLocation)
+18:56:07 - System.IO.IOException: The filename, directory name, or volume label syntax is incorrect. : 'D:\Optimization\Clean Up\BCUninstaller\win-x64\?\C:\Windows\System32\SecurityHealth\10.0.29554.1001-0\SecurityHealthAgent.dll'
+   at System.IO.FileSystemInfo.EnsureDataInitialized()
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(DirectoryInfo dir)
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(String installLocation)
+18:56:07 - System.IO.IOException: The filename, directory name, or volume label syntax is incorrect. : 'D:\Optimization\Clean Up\BCUninstaller\win-x64\?\C:\Windows\System32\SecurityHealth\10.0.29554.1001-0\SecurityHealthSSO.dll'
+   at System.IO.FileSystemInfo.EnsureDataInitialized()
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(DirectoryInfo dir)
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(String installLocation)
+18:56:07 - System.IO.IOException: The filename, directory name, or volume label syntax is incorrect. : 'D:\Optimization\Clean Up\BCUninstaller\win-x64\?\C:\Windows\System32\SecurityHealth\10.0.29554.1001-0\SecurityHealthAgent.dll'
+   at System.IO.FileSystemInfo.EnsureDataInitialized()
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(DirectoryInfo dir)
+   at UninstallTools.UninstallToolsGlobalConfig.IsSystemDirectory(String installLocation)
+18:56:10 - Attempt failed, skipping. Error: System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+ ---> System.Runtime.InteropServices.COMException (0x80270222): Cannot access Homegroup. Homegroup may not be set up or may have encountered an error. (0x80270222)
+   at WinRT.ExceptionHelpers.<ThrowExceptionForHR>g__Throw|20_0(Int32 hr)
+   at WinRT.ExceptionHelpers.ThrowExceptionForHR(Int32 hr)
+   at ABI.Windows.Storage.IKnownFoldersStaticsMethods.get_HomeGroup(IObjectReference _obj)
+   at Windows.Storage.KnownFolders.get_HomeGroup()
+   --- End of inner exception stack trace ---
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Span`1& arguments, Signature sig, Boolean constructor, Boolean wrapExceptions)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.PropertyInfo.GetValue(Object obj)
+   at UninstallTools.Junk.JunkManager.<>c.<GetProhibitedLocations>b__4_1(PropertyInfo p)
+   at Klocman.Extensions.EnumerableExtensions.Attempt[TIn,TOut](IEnumerable`1 baseEnumerable, Func`2 action)+MoveNext()
+18:56:17 - [Performance] Factory RegistryFactory took 2112ms to finish
+18:56:17 - Cache hits: 442/442
+18:56:17 - [Performance] Factory DirectoryFactory took 208ms to finish
+18:56:17 - [Performance] Running command c:\programdata\chocolatey\bin\choco.exe  took 2011ms
+18:56:19 - [Performance] Running command c:\programdata\chocolatey\bin\choco.exe list -lo -nocolor --detail took 1979ms
+18:56:19 - [Performance] Factory ChocolateyFactory took 3996ms to finish
+18:56:19 - [Performance] Running command D:\Optimization\Clean Up\BCUninstaller\win-x64\OculusHelper.exe /query took 39ms
+18:56:19 - [Performance] Factory OculusFactory took 42ms to finish
+18:56:19 - [Performance] Factory PredefinedFactory took 0ms to finish
+18:56:19 - [Performance] Factory ScoopFactory took 0ms to finish
+18:56:19 - [Performance] Running command D:\Optimization\Clean Up\BCUninstaller\win-x64\ScriptHelper.exe list took 69ms
+18:56:19 - [Performance] Factory ScriptFactory took 72ms to finish
+18:56:19 - [Performance] Running command D:\Optimization\Clean Up\BCUninstaller\win-x64\SteamHelper.exe steam took 42ms
+18:56:19 - [Performance] Running command D:\Optimization\Clean Up\BCUninstaller\win-x64\SteamHelper.exe l /i took 84ms
+18:56:19 - [Performance] Factory SteamFactory took 134ms to finish
+18:56:20 - [Performance] Running command D:\Optimization\Clean Up\BCUninstaller\win-x64\StoreAppHelper.exe /query took 642ms
+18:56:20 - [Performance] Factory StoreAppFactory took 711ms to finish
+18:56:21 - Cache hits: 542/542
